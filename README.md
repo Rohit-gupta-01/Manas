@@ -22,9 +22,5 @@ The application uses the following technologies:
 - JavaScript
 - Python
 - Flask
-- AWS DynamoDB
-- AWS ECR, ECS
-- Docker, Jenkins, SonarQube
-
 # Contributing
 We welcome contributions to Manas ! If you find a bug or would like to request a new feature, please open an issue on this repository. If you would like to contribute code, please fork this repository and submit a pull request.
